@@ -1,7 +1,7 @@
 ---
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 08 2022"
+title: "Welkom"
+description: "bij Teamcast.fun"
+pubDate: "februari 16 2026"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
